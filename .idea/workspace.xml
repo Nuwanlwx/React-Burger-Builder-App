@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b4e97757-86ae-4297-a659-f9961d9a832a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Burger/Burger.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/Burger.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +56,7 @@
       <workItem from="1609619641417" duration="20224000" />
       <workItem from="1609868310375" duration="1532000" />
       <workItem from="1609954836531" duration="604000" />
-      <workItem from="1610633142363" duration="3823000" />
+      <workItem from="1610633142363" duration="4837000" />
     </task>
     <task id="LOCAL-00001" summary="8. A Real App The Burger Builder (Basic Version):13. Outputting Burger Ingredients Dynamically">
       <created>1609691406867</created>
@@ -93,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609699124629</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="8. A Real App The Burger Builder (Basic Version):18. Removing Ingredients Safely">
+      <created>1610642306718</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610642306718</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +112,7 @@
     <MESSAGE value="8. A Real App The Burger Builder (Basic Version):15. Adding the Build Control Component" />
     <MESSAGE value="8. A Real App The Burger Builder (Basic Version):16. Outputting Multiple Build Controls" />
     <MESSAGE value="8. A Real App The Burger Builder (Basic Version):17. Connecting State to Build Controls" />
-    <option name="LAST_COMMIT_MESSAGE" value="8. A Real App The Burger Builder (Basic Version):17. Connecting State to Build Controls" />
+    <MESSAGE value="8. A Real App The Burger Builder (Basic Version):18. Removing Ingredients Safely" />
+    <option name="LAST_COMMIT_MESSAGE" value="8. A Real App The Burger Builder (Basic Version):18. Removing Ingredients Safely" />
   </component>
 </project>
