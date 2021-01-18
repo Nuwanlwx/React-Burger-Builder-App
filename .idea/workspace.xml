@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4e97757-86ae-4297-a659-f9961d9a832a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Burger/OrderSummary/OrderSummary.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/OrderSummary/OrderSummary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +69,7 @@
       <workItem from="1610826413698" duration="1104000" />
       <workItem from="1610827634156" duration="101000" />
       <workItem from="1610886727249" duration="67000" />
-      <workItem from="1610989475597" duration="3523000" />
+      <workItem from="1610989475597" duration="4067000" />
     </task>
     <task id="LOCAL-00001" summary="8. A Real App The Burger Builder (Basic Version):13. Outputting Burger Ingredients Dynamically">
       <created>1609691406867</created>
@@ -149,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610991528626</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="8. A Real App The Burger Builder (Basic Version):24. Adding a Custom Button Component">
+      <created>1610993067341</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1610993067341</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +184,7 @@
     <MESSAGE value="8. A Real App The Burger Builder (Basic Version):21. Creating the Order Summary Modal" />
     <MESSAGE value="8. A Real App The Burger Builder (Basic Version):22. Showing &amp; Hiding the Modal (with Animation!)" />
     <MESSAGE value="8. A Real App The Burger Builder (Basic Version):23. Implementing the Backdrop Component" />
-    <option name="LAST_COMMIT_MESSAGE" value="8. A Real App The Burger Builder (Basic Version):23. Implementing the Backdrop Component" />
+    <MESSAGE value="8. A Real App The Burger Builder (Basic Version):24. Adding a Custom Button Component" />
+    <option name="LAST_COMMIT_MESSAGE" value="8. A Real App The Burger Builder (Basic Version):24. Adding a Custom Button Component" />
   </component>
 </project>
