@@ -2,7 +2,7 @@ import  React, {Component} from 'react';
 import  Auxiliary from  '../../hoc/Auxiliary';
 import Burger from '../../components/Burger/Burger';
 import BuildControls from '../../components/Burger/BuildControls/BuildControls';
-import BuildControl from "../../components/Burger/BuildControls/BuildControl/BuildControl";
+// import BuildControl from "../../components/Burger/BuildControls/BuildControl/BuildControl";
 import Modal from '../../components/UI/Modal/Modal';
 import OrderSummary from '../../components/Burger/OrderSummary/OrderSummary';
 
@@ -79,6 +79,10 @@ class BurgerBuilder extends  Component {
     purchaseHandler = () => {
         this.setState({purchasing:true});
     }
+    purchaseCancelHandler = () => {
+        this.setState({purchasing:false});
+        console.log(this.state.purchasing)
+    }
     render() {
         const  disabledInfo = {
             ...this.state.ingredients
@@ -88,7 +92,7 @@ class BurgerBuilder extends  Component {
         }
        return(
            <Auxiliary>
-               <Modal show={this.state.purchasing}>
+               <Modal show={this.state.purchasing} modalClosed={this.purchaseCancelHandler}>
                    <OrderSummary ingredients={this.state.ingredients}/>
                </Modal>
                <Burger ingredients={this.state.ingredients}/>

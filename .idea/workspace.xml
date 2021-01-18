@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b4e97757-86ae-4297-a659-f9961d9a832a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/UI/Modal/Modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Modal/Modal.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" afterDir="false" />
     </list>
@@ -23,6 +23,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Nuwanlwx/React-Burger-Builder-App" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1mWpD6aOGa157H5QyTJ3LoKuXcq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -33,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Projects/clustermanager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -42,6 +49,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,7 +66,11 @@
       <workItem from="1609954836531" duration="604000" />
       <workItem from="1610633142363" duration="11397000" />
       <workItem from="1610730442626" duration="596000" />
-      <workItem from="1610808314865" duration="4438000" />
+      <workItem from="1610808314865" duration="5200000" />
+      <workItem from="1610826413698" duration="1104000" />
+      <workItem from="1610827634156" duration="101000" />
+      <workItem from="1610886727249" duration="67000" />
+      <workItem from="1610989475597" duration="1936000" />
     </task>
     <task id="LOCAL-00001" summary="8. A Real App The Burger Builder (Basic Version):13. Outputting Burger Ingredients Dynamically">
       <created>1609691406867</created>
@@ -123,11 +135,29 @@
       <option name="project" value="LOCAL" />
       <updated>1610824589565</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="8. A Real App The Burger Builder (Basic Version):22. Showing &amp; Hiding the Modal (with Animation!)">
+      <created>1610825694822</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1610825694822</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="8. A Real App The Burger Builder (Basic Version):13. Outputting Burger Ingredients Dynamically" />
@@ -139,6 +169,7 @@
     <MESSAGE value="8. A Real App The Burger Builder (Basic Version):19. Displaying and Updating the Burger Price" />
     <MESSAGE value="8. A Real App The Burger Builder (Basic Version):20. Adding the Order Button" />
     <MESSAGE value="8. A Real App The Burger Builder (Basic Version):21. Creating the Order Summary Modal" />
-    <option name="LAST_COMMIT_MESSAGE" value="8. A Real App The Burger Builder (Basic Version):21. Creating the Order Summary Modal" />
+    <MESSAGE value="8. A Real App The Burger Builder (Basic Version):22. Showing &amp; Hiding the Modal (with Animation!)" />
+    <option name="LAST_COMMIT_MESSAGE" value="8. A Real App The Burger Builder (Basic Version):22. Showing &amp; Hiding the Modal (with Animation!)" />
   </component>
 </project>
