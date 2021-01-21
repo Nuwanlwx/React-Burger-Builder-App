@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4e97757-86ae-4297-a659-f9961d9a832a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Burger/OrderSummary/OrderSummary.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/OrderSummary/OrderSummary.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Layout/Layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/Layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/Layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UI/Modal/Modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Modal/Modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout/Layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/hoc/Layout/Layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hoc/Layout/Layout.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +61,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Nuwan\Personal Projects\burger-builder\src\hoc\Auxiliary" />
+      <recent name="C:\Nuwan\Personal Projects\burger-builder\src\hoc" />
+      <recent name="C:\Nuwan\Personal Projects\burger-builder\src\containers" />
       <recent name="C:\Nuwan\Personal Projects\burger-builder\src\assets\Images" />
     </key>
   </component>
@@ -86,7 +87,7 @@
       <workItem from="1610886727249" duration="67000" />
       <workItem from="1610989475597" duration="7617000" />
       <workItem from="1611075670543" duration="13269000" />
-      <workItem from="1611151834171" duration="4443000" />
+      <workItem from="1611151834171" duration="4773000" />
     </task>
     <task id="LOCAL-00001" summary="8. A Real App The Burger Builder (Basic Version):13. Outputting Burger Ingredients Dynamically">
       <created>1609691406867</created>
@@ -249,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611086854981</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="8. A Real App The Burger Builder (Basic Version):38. Improving Performance">
+      <created>1611210305731</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1611210305746</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,7 +299,8 @@
     <MESSAGE value="8. A Real App The Burger Builder (Basic Version):33. Reusing the Backdrop ||" />
     <MESSAGE value="8. A Real App The Burger Builder (Basic Version):34. Adding a Sidedrawer Toggle Button" />
     <MESSAGE value="8. A Real App The Burger Builder (Basic Version):35. Adding a Hamburger Icon" />
-    <option name="LAST_COMMIT_MESSAGE" value="8. A Real App The Burger Builder (Basic Version):35. Adding a Hamburger Icon" />
+    <MESSAGE value="8. A Real App The Burger Builder (Basic Version):38. Improving Performance" />
+    <option name="LAST_COMMIT_MESSAGE" value="8. A Real App The Burger Builder (Basic Version):38. Improving Performance" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
