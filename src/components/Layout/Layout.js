@@ -24,7 +24,7 @@ class Layout extends Component {
                             closed={this.sideDrawerClosedHandler}
 
                 />
-                <div>Toolbar,sideDrawer,Backdrop</div>
+                {/*<div>Toolbar,sideDrawer,Backdrop</div>*/}
                 <main className={classes.Content}>
                     {this.props.children}
                 </main>

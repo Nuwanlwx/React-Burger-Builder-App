@@ -1,3 +1,9 @@
 .Content {
     margin: 72px;
 }
+
+@media (max-width: 500px) {
+    .Content {
+        margin: 72px 2px;
+    }
+}
